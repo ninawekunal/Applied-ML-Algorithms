@@ -1,15 +1,16 @@
 # Applied-ML-Algorithms
-**Link:** 
+**Link:** [Titanic Prediction 5 models:](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/Final/Titanic_Predictions_5_models.ipynb)
 **Objective:** 
  - Take dataset from [Kaggle](https://www.kaggle.com/c/titanic/data) and play with various Machine Learning models to get the best model which has highest accuracy in prediction.
- - Preprocess the dataset by explore and cleaning it.
+ - [Preprocess](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/Data%20preprocessing/Titanic_data_preprocessing.ipynb) the dataset by explore and cleaning it.
  - Scenarios on when to use each model.
  - Learn practical application of Machine Learning models like:
     - Linear Regression
-    - Logistic Regression
-    - Support Vector Machines(SVM)
-    - Random Forest Classifiers
-    - XG Boosting
+    - [Logistic Regression](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/Logistic%20Regression/Logistic_Regression_Tutorial.ipynb)
+    - [Support Vector Machines(SVM)](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/SVM/SVM_Tutorial.ipynb)
+    - [Random Forest Classifiers](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/Random%20Forest%20Classifier/Random_Forest_Tutorial.ipynb)
+    - [XG Boosting](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/XGBoosting/GradientBoosting.ipynb)
+    - [Multi-Layer Perceptron](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/Multi%20Layer%20Perceptron/multi_layer_perceptron.ipynb)
  - Fine tune hyper-parameters of each model to improve accuracy:
     - Learning Rate
     - Depth of Decision Tree
