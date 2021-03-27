@@ -22,9 +22,13 @@
  -  Choosing optimal model by testing each model on test dataset and evaulating against each other's score.
 
 **Result:**
- - After training 5 different models on the titanic dataset, I got an performance metrics as follows:
+ - After training 5 different models on the titanic dataset's *validation* data, I got an performance metrics as follows:
     - LR -- Accuracy: 0.758 / Precision: 0.778 / Recall: 0.675 / Latency: 2.2ms
     - SVM -- Accuracy: 0.753 / Precision: 0.767 / Recall: 0.675 / Latency: 4.3ms
     - MLP -- Accuracy: 0.742 / Precision: 0.776 / Recall: 0.627 / Latency: 11.5ms
     - RF -- Accuracy: 0.787 / Precision: 0.846 / Recall: 0.663 / Latency: 9.5ms
-    - XGB -- Accuracy: 0.798 / Precision: 0.862 / Recall: 0.675 / Latency: 6.9ms
+    - ***XGB*** -- Accuracy: 0.798 / Precision: 0.862 / Recall: 0.675 / Latency: 6.9ms
+ - XGB performs the best in terms of Accuracy of 79.8% and Precision of 86.2%, and ties with LR with a high recall of 67.5% with a low latency.
+ - On the *test* data, metrics were:
+    - XGB -- Accuracy: 0.832 / Precision: 0.792 / Recall: 0.655 / Latency: 4.5ms
+    - High Accuracy with a slightly low precision and recall with a low latency.
