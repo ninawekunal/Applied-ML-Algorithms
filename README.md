@@ -1,5 +1,6 @@
 # Applied-ML-Algorithms
-**Link:** [Titanic Prediction 5 models:](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/Final/Titanic_Predictions_5_models.ipynb)
+**Link:** [Titanic Prediction 5 models:](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/Final/Titanic_Predictions_5_models.ipynb) (Open in new tab)
+
 **Objective:** 
  - Take dataset from [Kaggle](https://www.kaggle.com/c/titanic/data) and play with various Machine Learning models to get the best model which has highest accuracy in prediction.
  - [Preprocess](https://github.com/ninawekunal/Applied-ML-Algorithms/blob/main/Data%20preprocessing/Titanic_data_preprocessing.ipynb) the dataset by explore and cleaning it.
